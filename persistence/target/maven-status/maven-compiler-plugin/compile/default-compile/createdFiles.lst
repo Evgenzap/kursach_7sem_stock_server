@@ -1,0 +1,12 @@
+com\stock\stock\Stock.class
+com\stock\commodity\Commodity.class
+com\stock\status\Status.class
+com\stock\contractor\Contractor.class
+com\stock\core\BaseEntity.class
+com\stock\shipment\Shipment.class
+com\stock\stock\StockCommodity.class
+com\stock\acceptance\Acceptance.class
+com\stock\company\Company.class
+com\stock\legalRequisit\LegalRequisite.class
+com\stock\shipment\ShipmentCommodity.class
+com\stock\acceptance\AcceptanceCommodity.class
